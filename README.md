@@ -12,6 +12,8 @@ A web-based calendar application developed using React that displays public holi
 
 **Updated Data**: Sourced from the reliable Nager.Date API to always display the most recent holiday data.
 
+**URL Updates with Navigation**: As you move between months, the app smartly updates the URL to reflect the current view, enabling easy bookmarking or sharing of specific months.
+
 
 
 
